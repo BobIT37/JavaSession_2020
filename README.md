@@ -19,3 +19,12 @@
 1. String manipulation
 2. Concatenation
 3. Conditions
+
+## Week_3
+
+1. Loop Concepts
+   1. For loop
+   2. While Loop
+   3. Do While Loop
+   4. Nested Loop
+   5. Continue and Break
