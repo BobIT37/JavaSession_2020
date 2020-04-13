@@ -13,3 +13,9 @@
 7. Boolean Operators
 8. Arithmetic Operators
 9. Relational Operators
+
+## Week_2
+
+1. String manipulation
+2. Concatenation
+3. Conditions
