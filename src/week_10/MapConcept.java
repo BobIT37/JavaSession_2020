@@ -24,10 +24,10 @@ public class MapConcept {
 		//Map<Integer, String> values = new LinkedHashMap<Integer, String>();
 		
 		//Keys sorted in natural order
-		//Map<Integer, String> values = new TreeMap<Integer, String>();
+		Map<Integer, String> values = new TreeMap<Integer, String>();
 		
 		//order is not predictable because uses hash code
-		Hashtable<Integer, String> values = new Hashtable<Integer, String>();
+		//Hashtable<Integer, String> values = new Hashtable<Integer, String>();
 		
 		values.put(69, "John");
 		values.put(67, "Mike");

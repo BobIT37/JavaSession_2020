@@ -8,7 +8,13 @@ public class Forloop1 {
 		// Happy birthday to you!
 		
 		for(int i = 1; i < 6; i++){
-			System.out.println("Happy birthday to you!");
+			try {
+				Thread.sleep(1000);
+			} catch (InterruptedException e) {
+				
+				e.printStackTrace();
+			}
+			System.out.println(i);
 		}
 
 	}
