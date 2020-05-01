@@ -56,8 +56,11 @@ public class Conditons4 {
 			System.out.println("invalid input");
 		}
 		
-		
-
+	}
+	
+	public static double getRandomDoubleBetweenRange(double min, double max){
+	    double x = (Math.random()*((max-min)+1))+min;
+	    return x;
 	}
 
 }

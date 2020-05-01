@@ -23,7 +23,7 @@ public class GarbageConcept {
 		GarbageConcept b = new GarbageConcept();
 		b=a;
 		
-		Runtime.getRuntime().gc();
+		System.gc();
 	
 	}
 	protected void finalize() throws Throwable{
